@@ -13,7 +13,8 @@ and change to format :
 
 ## Prerequisites: <br>
 You must install python and install mnemonic on python.
-- sudo apt update && sudo apt install python3 python3-pip -y
-- pip install mnemonic
+- `sudo apt update && sudo apt install python3 python3-pip -y`
+- `pip install mnemonic`
+- `python main.py` or `python3 main.py`
 
 ### I make this code to export tendermint privkey to mnemonic that can be put into the leap wallet or keplr wallet
