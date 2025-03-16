@@ -11,4 +11,9 @@ and change to format :
   
 - `**milk dougnut censored plunge abcd unable hacked slogan asthma dune xxx trial qwerty chicken xyz struggle obtain xxx amount fiber barely firebase order xyz**`
 
+## Prerequisites: <br>
+You must install python and install mnemonic on python.
+- sudo apt update && sudo apt install python3 python3-pip -y
+- pip install mnemonic
+
 ### I make this code to export tendermint privkey to mnemonic that can be put into the leap wallet or keplr wallet
