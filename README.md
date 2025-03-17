@@ -14,6 +14,8 @@ and change to format :
 ## Prerequisites: <br>
 You must install python and install mnemonic on python.
 - `sudo apt update && sudo apt install python3 python3-pip -y`
+- `git clone https://github.com/asamarsal/PrivKeyEd25519-to-mnemonic.git`
+- `cd PrivKeyEd25519-to-mnemonic`
 - `pip install mnemonic`
 - `python main.py` or `python3 main.py`
 
